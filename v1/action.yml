@@ -6,7 +6,7 @@ branding:
   color: "blue"
 inputs:
   target-url:
-    description: 'The URL to scan'
+    description: 'https://sma-algeria.com/'
     required: true
   minimum-grade:
     description: 'The minimum grade that will make the scan pass'
